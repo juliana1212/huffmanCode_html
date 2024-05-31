@@ -80,7 +80,7 @@ Con estos pasos completados, habrás configurado correctamente la conexión a la
 
 3. Abre tu editor de texto preferido en tu computadora.
 
-4. Copia los comandos SQL del archivo `crear_historial.sql` y `crear_usuarios.sql` que se encuentran en la carpeta `sql` de tu proyecto `huffmanCode_html`.
+4. Copia los comandos SQL del archivo  `crear_usuarios.sql` que se encuentran en la carpeta `sql` de tu proyecto `huffmanCode_html`.
 
 5. Pega los comandos SQL copiados en el editor de texto.
 
