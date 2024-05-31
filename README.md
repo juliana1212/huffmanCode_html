@@ -44,7 +44,7 @@ Antes de comenzar, asegúrate de tener lo siguiente:
 
 5. **Permisos de Ejecución:** Es posible que necesites tener permisos de ejecución para ejecutar el archivo ejecutable "Ejecutable_Calculadora". Si estás utilizando un sistema operativo que requiere permisos de administrador, asegúrate de tenerlos.
 
-6. **Flash:**  Debes instalar flask en tu sistema. Es posible decargarlo utilizando el comando pip install flask en la terminal de tu sistema.
+6. **Flask:**  Debes instalar flask en tu sistema. Es posible decargarlo utilizando el comando pip install flask en la terminal de tu sistema.
 
 Con estos prerrequisitos, estarás listo/a para abrir y utilizar la interfaz web de  HuffCompresor en tu computadora. ¡Disfruta utilizando el compresor de textos  HuffCompresor!
 
